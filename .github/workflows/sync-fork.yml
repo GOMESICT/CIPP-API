@@ -1,4 +1,4 @@
-ame: sync-fork
+name: sync-fork
 on:
   schedule:
     - cron: '0 0 * * *'
